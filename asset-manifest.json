@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Artyom2510/Artyom2510.github.io/cat-react/static/css/main.0a855367.chunk.css",
+    "main.js": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/main.910c53af.chunk.js",
+    "main.js.map": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/main.910c53af.chunk.js.map",
+    "runtime-main.js": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/runtime-main.8f4a27b4.js",
+    "runtime-main.js.map": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/runtime-main.8f4a27b4.js.map",
+    "static/js/2.f2058a78.chunk.js": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/2.f2058a78.chunk.js",
+    "static/js/2.f2058a78.chunk.js.map": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/2.f2058a78.chunk.js.map",
+    "index.html": "/Artyom2510/Artyom2510.github.io/cat-react/index.html",
+    "precache-manifest.d5217d0ee01f0a4e7d95547d7bfb22a2.js": "/Artyom2510/Artyom2510.github.io/cat-react/precache-manifest.d5217d0ee01f0a4e7d95547d7bfb22a2.js",
+    "service-worker.js": "/Artyom2510/Artyom2510.github.io/cat-react/service-worker.js",
+    "static/css/main.0a855367.chunk.css.map": "/Artyom2510/Artyom2510.github.io/cat-react/static/css/main.0a855367.chunk.css.map",
+    "static/js/2.f2058a78.chunk.js.LICENSE.txt": "/Artyom2510/Artyom2510.github.io/cat-react/static/js/2.f2058a78.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Artyom2510/Artyom2510.github.io/cat-react/static/media/cat.e233614b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f4a27b4.js",
+    "static/js/2.f2058a78.chunk.js",
+    "static/css/main.0a855367.chunk.css",
+    "static/js/main.910c53af.chunk.js"
+  ]
+}
